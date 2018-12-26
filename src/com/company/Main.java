@@ -16,33 +16,33 @@ public class Main {
         int frequency=1;
         float array[]=new float[4];
 
-        String Surface1_Temp_Path  =("C:\\Users\\ajiyb\\IdeaProjects\\Temp_Model\\Satalite Surface 1 Temp.txt");
-        String Surface1_Heater_Path=("C:\\Users\\ajiyb\\IdeaProjects\\Temp_Model\\Satalite Surface 1 Heater.txt");
+        String Surface1_Temp_Path  =("Satalite Surface 1 Temp.txt");
+        String Surface1_Heater_Path=("Satalite Surface 1 Heater.txt");
         PrintStream Surface1_Temp_Writer   = new PrintStream(Surface1_Temp_Path);
         PrintStream Surface1_Heater_Writer = new PrintStream(Surface1_Heater_Path);
 
-        String Surface2_Temp_Path  =("C:\\Users\\ajiyb\\IdeaProjects\\Temp_Model\\Satalite Surface 2 Temp.txt");
-        String Surface2_Heater_Path=("C:\\Users\\ajiyb\\IdeaProjects\\Temp_Model\\Satalite Surface 2 Heater.txt");
+        String Surface2_Temp_Path  =("Satalite Surface 2 Temp.txt");
+        String Surface2_Heater_Path=("Satalite Surface 2 Heater.txt");
         PrintStream Surface2_Temp_Writer   = new PrintStream(Surface2_Temp_Path);
         PrintStream Surface2_Heater_Writer = new PrintStream(Surface2_Heater_Path);
 
-        String Surface3_Temp_Path  =("C:\\Users\\ajiyb\\IdeaProjects\\Temp_Model\\Satalite Surface 3 Temp.txt");
-        String Surface3_Heater_Path=("C:\\Users\\ajiyb\\IdeaProjects\\Temp_Model\\Satalite Surface 3 Heater.txt");
+        String Surface3_Temp_Path  =("Satalite Surface 3 Temp.txt");
+        String Surface3_Heater_Path=("Satalite Surface 3 Heater.txt");
         PrintStream Surface3_Temp_Writer  = new PrintStream(Surface3_Temp_Path);
         PrintStream Surface3_Heater_Writer = new PrintStream(Surface3_Heater_Path);
 
-        String Surface4_Temp_Path  =("C:\\Users\\ajiyb\\IdeaProjects\\Temp_Model\\Satalite Surface 4 Temp.txt");
-        String Surface4_Heater_Path=("C:\\Users\\ajiyb\\IdeaProjects\\Temp_Model\\Satalite Surface 4 Heater.txt");
+        String Surface4_Temp_Path  =("Satalite Surface 4 Temp.txt");
+        String Surface4_Heater_Path=("Satalite Surface 4 Heater.txt");
         PrintStream Surface4_Temp_Writer    = new PrintStream(Surface4_Temp_Path);
         PrintStream Surface4_Heater_Writer  = new PrintStream(Surface4_Heater_Path);
 
-        String Surface5_Temp_Path  =("C:\\Users\\ajiyb\\IdeaProjects\\Temp_Model\\Satalite Surface 5 Temp.txt");
-        String Surface5_Heater_Path=("C:\\Users\\ajiyb\\IdeaProjects\\Temp_Model\\Satalite Surface 5 Heater.txt");
+        String Surface5_Temp_Path  =("Satalite Surface 5 Temp.txt");
+        String Surface5_Heater_Path=("Satalite Surface 5 Heater.txt");
         PrintStream Surface5_Temp_Writer   = new PrintStream(Surface5_Temp_Path);
         PrintStream Surface5_Heater_Writer = new PrintStream(Surface5_Heater_Path);
 
-        String Surface6_Temp_Path  =("C:\\Users\\ajiyb\\IdeaProjects\\Temp_Model\\Satalite Surface 6 Temp.txt");
-        String Surface6_Heater_Path=("C:\\Users\\ajiyb\\IdeaProjects\\Temp_Model\\Satalite Surface 6 Heater.txt");
+        String Surface6_Temp_Path  =("Satalite Surface 6 Temp.txt");
+        String Surface6_Heater_Path=("Satalite Surface 6 Heater.txt");
         PrintStream Surface6_Temp_Writer   = new PrintStream(Surface6_Temp_Path);
         PrintStream Surface6_Heater_Writer = new PrintStream(Surface6_Heater_Path);
 
